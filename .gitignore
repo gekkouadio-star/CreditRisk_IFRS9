@@ -1,0 +1,28 @@
+# Environnement virtuel
+env/
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers système Mac
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# Jupyter (au cas où)
+.ipynb_checkpoints/
+
+# Données (optionnel si tu ne veux pas les push sur GitHub)
+data/raw/
+data/processed/
+
+# Rapports / images générées
+reports/figures/
+
+# Logs
+*.log
