@@ -54,21 +54,31 @@ Clients ou prêts **en défaut**.
 ## Paramètres de risque utilisés
 
 ### PD (Probability of Default)
+
 ➡ Probabilité qu’un client **ne rembourse pas** son crédit.
 
 ### LGD (Loss Given Default)
+
 ➡ Pourcentage de perte subie par la banque **en cas de défaut**.
 
 ### EAD (Exposure at Default)
+
 ➡ Montant exposé au moment du défaut (capital restant dû + exposition).
 
 ### ECL (Expected Credit Loss)
+
 ➡ Perte attendue calculée comme :
 
 \[
 ECL = PD \times LGD \times EAD
 \]
+ **ou**
 
+$ECL = PD \times LGD \times EAD$
+
+**ou**
+
+*ECL=PD×LGD×EAD*
 ---
 
 ## Résumé IFRS9
